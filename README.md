@@ -1,4 +1,4 @@
-# PyCity Schools Analysis
+# School Rating Analysis
 
 Analysis:
 
